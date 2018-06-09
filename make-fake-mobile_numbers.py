@@ -14,6 +14,7 @@ Carriers = ['AT&T Mobility', 'Rogers Wireless [CAN]', 'Verizon Wireless']
 Carriers_P = [0.45, 0.1, 0.45]
 Country = {'AT&T Mobility':'US', 'Rogers Wireless [CAN]':'Canada', \
            'Verizon Wireless':'US'}
+
 # Device Types and probobilities (needs to sum to 100%)
 DeviceType = ['Basic Phone', 'Embedded Modem',\
               'Mobile Hotspot', 'Smartphone', \
